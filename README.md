@@ -2,13 +2,7 @@
 
 ### Tecnólogo creativo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lott-Campuzano&label=Profile views&color=0e75b6&style=flat" alt="Lott-Campuzano" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lott-Campuzano)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://twitter.com/geek_3r" target="blank"><img src="https://img.shields.io/twitter/follow/geek_3r?logo=twitter&style=for-the-badge" alt="geek_3r" /></a> </p>
-
-- 🔭 Actualmente estoy trabajando **Conception, una consultora independiente de software**
+- 🔭 Actualmente estoy trabajando en **Conception, una consultora independiente de software**
 
 - 🌱 Estoy aprendiendo **Angular, Python, PostgreSQL y TailwindCSS**
 
