@@ -7,10 +7,9 @@ Soy un apasionado de la tecnología, el desarrollo y la cultura Open Source. Me 
 Cuando no estoy configurando servidores o escribiendo código, estoy creando contenido y experimentando con hardware, automatizaciones y diseño bajo mi proyecto creativo **[geek_3R]**.
 
 ## 🛠️ Lo que hago y me interesa
-* **Linux & Open Source:** Entusiasta del software libre y usuario de entornos Linux.
-* **DevOps & Operaciones:** Estudiante de posgrado enfocado en la integración, despliegue y automatización de procesos.
-* **Desarrollo Web & Automatización:** Construcción de soluciones utilizando Vanilla JavaScript, Supabase y flujos automatizados con n8n.
-* **Tecnología Creativa (geek_3R):** Mi espacio como artista y creador donde fusiono la tecnología, la fotografía, el diseño minimalista (industrial) y la experimentación sonora. 
+* **Open Source y Linux:** Entusiasta del software libre y usuario de entornos Linux.
+* **Desarrollo Web y Automatización:** Construcción de soluciones utilizando Vanilla JavaScript, Supabase y flujos automatizados con n8n.
+* **Tecnología Creativa:** Mi espacio como artista y creador donde fusiono la tecnología, la fotografía, el diseño minimalista industrial y la experimentación sonora. 
 
 ## 💻 Tech Stack y Herramientas
 
