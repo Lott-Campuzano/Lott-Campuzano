@@ -20,7 +20,7 @@ Cuando no estoy configurando servidores o escribiendo código, estoy creando con
 
 ## 📈 GitHub Stats
 
-![Lott's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lott_Campuzano&show_icons=true&theme=radium)
+[![Lott's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lott-Campuzano)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Conecta conmigo
 
