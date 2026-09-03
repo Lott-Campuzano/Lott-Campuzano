@@ -1,10 +1,9 @@
-# Hola, soy Lott Campuzano 👋
+# Hola, soy arsite
 
 ### Tecnólogo Creativo
 
 Soy un apasionado de la tecnología, el desarrollo y la cultura Open Source. Me gusta construir herramientas, optimizar flujos de trabajo y explorar la intersección entre la tecnología y el arte. 
 
-Cuando no estoy configurando servidores o escribiendo código, estoy creando contenido y experimentando con hardware, automatizaciones y diseño bajo mi proyecto creativo **[geek_3R]**.
 
 ## 🛠️ Lo que hago y me interesa
 * **Open Source y Linux:** Entusiasta del software libre y usuario de entornos Linux.
